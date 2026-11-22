@@ -107,16 +107,9 @@ owasp-juice-shop-security-testing/
 │
 ├── README.md
 │
-├── reports/
-│   ├── web-vulnerabilities-assessment-report.pdf
-│   └── advanced-authentication-and-injection-testing-report.pdf
-│
-├── screenshots/
-│   ├── stored-xss.png
-│   ├── dom-xss.png
-│   ├── reflected-xss.png
-│   ├── sql-injection.png
-│   ├── ssrf-testing.png
-│   ├── brute-force-testing.png
-│   ├── csrf-testing.png
-│   └── broken-cors.png
+└── reports/
+    ├── web-vulnerabilities-assessment-report.pdf
+    └── advanced-authentication-and-injection-testing-report.pdf
+```
+
+The assessment evidence (steps, impact and mitigations for each finding) is contained in the two PDF reports above. Screenshots referenced in earlier drafts of this README are not included in the repository.
